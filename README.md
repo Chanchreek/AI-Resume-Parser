@@ -20,5 +20,5 @@ It extracts **name, email, phone, skills, calculates ATS score, recommends cours
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-resume-parser.git
+   git clone https://github.com/chanchreek/ai-resume-parser.git
    cd ai-resume-parser
